@@ -18,11 +18,38 @@ li {
     text-decoration: none;
 }
 
-#logo{
-    width: 15px;
+.logo{
+width: 22px;
 }
 
 section{
     margin-top: 30px;
     padding: 20px;
+}
+body{
+    margin: 0!important;
+}
+.h1form{
+    margin-left: 20px;
+}
+.text-block{
+    color: blue;
+    font-size: large;
+}
+.th{
+    align-content: left;
+}
+
+.text-al{
+    margin-left: 20px;
+    text-align: left;
+}
+
+.number{
+    background-color: forestgreen;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
 }
